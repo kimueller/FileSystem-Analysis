@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAP_RekursivDateisystem.GUI", "LAP_RekursivDateisystem\LAP_RekursivDateisystem.GUI.csproj", "{2A0CBF78-3404-4217-9336-2B7CA538526B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAP_RekursivDateisystem.DAL", "LAP_RekursivDateisystem.DAL\LAP_RekursivDateisystem.DAL.csproj", "{74B0601F-4DAD-4D86-B3E9-E2DBC453DE31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A0CBF78-3404-4217-9336-2B7CA538526B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0CBF78-3404-4217-9336-2B7CA538526B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0CBF78-3404-4217-9336-2B7CA538526B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0CBF78-3404-4217-9336-2B7CA538526B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B0601F-4DAD-4D86-B3E9-E2DBC453DE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B0601F-4DAD-4D86-B3E9-E2DBC453DE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B0601F-4DAD-4D86-B3E9-E2DBC453DE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B0601F-4DAD-4D86-B3E9-E2DBC453DE31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D08B73F7-327D-4542-8609-B25B9B45A2E1}
+	EndGlobalSection
+EndGlobal
